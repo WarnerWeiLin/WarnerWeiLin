@@ -20,10 +20,15 @@ As a Software Engineer with a background as an Accounting and Audit Manager, I a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarnerWeiLin&layout=compact)](https://github.com/WarnerWeiLin/github-readme-stats)
 
 **Front End:** JavaScript (ES5 & ES6+), HTML5, CSS, React, jQuery, Webpack, Babel, Styled Components
+
 **Server:** Node.js, Express, NGINX
+
 **Databases:** Sequelize, MySQL, PostgreSQL, Mongoose,MongoDB, Cassandra, Redis
+
 **Deployment:** AWS S3, AWS EC2
+
 **Test Driven Development:** Jest, Enzyme, Mocha, Chai, Jasmine, New Relic, Loader.io, JMeter, K6
+
 **Other:**  Git, npm, Linux, Docker, Bash, Postman, Shell, Axios, Stripe, pm2
 
 
