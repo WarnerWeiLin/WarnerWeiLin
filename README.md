@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Welcome to my GitHub
 <!--
 **WarnerWeiLin/WarnerWeiLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As a Software Engineer with a background as an Accounting and Audit Manager, I am passionate about creating value-add, scalable, technology based solutions to address critical business problems. I create full stack CRUD applications (front end, server, and database) to maximize revenue and enhance cost efficiency and  while being able to communicate technical financial and engineering concepts to those that do not have expertise in these respective domains.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarnerWeiLin&layout=compact)](https://github.com/WarnerWeiLin/github-readme-stats)
+
+**Front End:** JavaScript (ES5 & ES6+), HTML5, CSS, React, jQuery, Webpack, Babel, Styled Components
+**Server:** Node.js, Express, NGINX
+**Databases:** Sequelize, MySQL, PostgreSQL, Mongoose,MongoDB, Cassandra, Redis
+**Deployment:** AWS S3, AWS EC2
+**Test Driven Development:** Jest, Enzyme, Mocha, Chai, Jasmine, New Relic, Loader.io, JMeter, K6
+**Other:**  Git, npm, Linux, Docker, Bash, Postman, Shell, Axios, Stripe, pm2
+
+
+[![Warner's github stats](https://github-readme-stats.vercel.app/api?username=WarnerWeiLin)](https://github.com/WarnerWeiLin/github-readme-stats)
+
